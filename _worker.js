@@ -15,7 +15,7 @@ let mainData = `
 
 let urls = [
     //'https://am.amclubs.us.kg/auto?sub'
-	'https://alice.dns-dynamic.net/linuxdo-06bba403-4ea4-4849-82f5-1cd7595bc10a/config.txt'
+	//'https://alice.dns-dynamic.net/linuxdo-06bba403-4ea4-4849-82f5-1cd7595bc10a/config.txt'
 ];
 
 let subConverter = "url.v1.mk";
